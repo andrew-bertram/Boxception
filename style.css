@@ -1,0 +1,38 @@
+h1 {
+    text-align: center;
+}
+#div-3 {
+    /* CONTENT */
+    width: 100px;
+    height: 100px;
+    /* PADDING */
+    padding: 0;
+    /* BORDER */
+    border: 3px solid black;
+    /* MARGIN */
+    margin: 45px auto;
+}
+
+#div-2 {
+    /* CONTENT */
+    width: 200px;
+    height: 200px;
+    /* PADDING */
+
+    /* BORDER */
+    border: 3px solid black;
+    /* MARGIN */
+    margin: 50px auto;
+}
+
+#div-1 {
+    /* CONTENT */
+    width: 300px;
+    height: 300px;
+    /* PADDING */
+
+    /* BORDER */
+    border: 3px solid black;
+    /* MARGIN */
+    margin: 150px auto ;
+}
